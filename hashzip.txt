@@ -1,0 +1,1 @@
+kewl.zip/tekst.txt:$pkzip$1*2*2*0*1a*e*28185fc4*0*43*0*1a*72c9*14ae62282d886c17286d729f13801d447414946c633a79826bbf*$/pkzip$:tekst.txt:kewl.zip::kewl.zip

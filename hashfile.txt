@@ -1,0 +1,1 @@
+file.zip/tekst.txt:$pkzip2$1*2*2*0*1a*e*28185fc4*0*43*0*1a*2818*72c9*f9c27bb2ef12042fb8c9a3f2f7d0782d84e72d58147d8f65a15a*$/pkzip2$:tekst.txt:file.zip::file.zip
